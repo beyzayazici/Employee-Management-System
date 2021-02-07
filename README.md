@@ -1,7 +1,7 @@
 # Employee-Management-System
 
-Requirements
-Database:PostgreSQL
-Docker
-LoopBack.js
-IDE:Visual Studio Code
+Requirements\n
+Database:PostgreSQL\n
+Docker\n
+LoopBack.js\n
+IDE:Visual Studio Code\n
